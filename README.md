@@ -1,5 +1,5 @@
 # My Own UNIX Shell
-Heekyung Kim 
+Northeastern Summer 2021
 
 ## Program Description
 This program emulates an UNIX shell. It executes four built-in functions (cd, help, quit, and joke) and other UNIX commands provided in `/bin` directory of the computer system. 
